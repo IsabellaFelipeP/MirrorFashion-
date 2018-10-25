@@ -1,0 +1,57 @@
+/*	p	{
+		color:	blue;
+		background-color: white;
+		}
+		
+h1	{
+		font-family: "Times", "Times New Roman"	serif;
+}
+ body {
+		font-family: "Arial", "helvetica", sans-serif;
+}
+/*
+p	{
+		font-family: "Courier" monospace; 
+} */
+/*
+p	{
+		text-align:	left; /*alinhamento de texto para esquerda, se fosse pra direita utilizar right e center para definir ao centro*/
+}
+/*
+p	{
+		line-height: 16px; /* tamanho da altura de cada linha */
+/*		letter-spacing: 1px; /* tamanho do espaço entre cada letra */
+/*		word-spacing: 1px; /* tamanho do espaço entre cada palavra */
+/*		text-indent: 10px; /* tamanho da margem da primeira linha do texto */
+/*} /*
+
+h1	{
+		background-image: url("img/sobre-background.jpg"); 
+}
+
+body	{
+		border: 1px	solid red;   /*determinar a borda do site*/
+/*} */
+
+.sacola	{
+background-image:	url(../img/sacola.png);
+background-repeat:	no-repeat;
+background-position:	top	right;
+			font-size: 14px;
+			padding-right: 35px;
+			text-align:	right;
+			width: 140px;
+	}
+.menu-opcoes ul	{
+			font-size: 15px;
+	}
+.menu-opcoes a	{
+				color: #003366;
+	}
+
+
+body	{
+			color: #333333;
+			font-family: "Lucida	Sans	Unicode",	"Lucida	Grande",	sans-serif;
+	}
+

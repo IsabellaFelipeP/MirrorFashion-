@@ -28,7 +28,8 @@
 				<div class="col-md-4">
 					<div class="card mb-3">
 						<div class="card-header">
-							Sua	compra
+							<h2>Sua	compra</h2>
+								
 						</div><!-- fim.card-header -->
 						<div class="card-body">
 						<img src="img/produtos/foto1-verde.png" alt="Fuzzy Cardigan" class="img-thumbnail mb-3">
@@ -36,8 +37,10 @@
 							<dt>Produto</dt>
 							<dd>Fuzzy Cardigan</dd>
 							<dt>Cor</dt>
+							<dd><?=	$_POST['cor'] ?></dd>
 							<dd>Verde</dd>
 							<dt>Tamanho</dt>
+							<dd><?=	$_POST['tamanho'] ?></dd>
 							<dd>40</dd>
 							<dt>Preço</dt>
 							<dd>R$ 129,90</dd>
